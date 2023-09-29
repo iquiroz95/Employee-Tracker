@@ -1,0 +1,16 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Manage a team of employees for any company using MySQL within the command line.",
+  "main": "server.mjs",
+
+  "repository": {
+    "url": "https://github.com/iquiroz95/Employee-Tracker"
+  },
+  
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "mysql2": "^2.3.3"
+  }
+}
